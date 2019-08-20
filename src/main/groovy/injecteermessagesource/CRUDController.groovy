@@ -1,8 +1,6 @@
 package injecteermessagesource
 
 import io.micronaut.context.MessageSource
-import io.micronaut.context.i18n.ResourceBundleMessageSource
-import io.micronaut.http.annotation.Get
 
 import javax.inject.Inject
 
