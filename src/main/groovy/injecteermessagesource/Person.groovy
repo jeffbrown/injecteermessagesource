@@ -1,0 +1,4 @@
+package injecteermessagesource
+
+class Person {
+}
